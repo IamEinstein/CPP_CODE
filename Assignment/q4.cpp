@@ -1,6 +1,5 @@
 /* 4.	To accept 2 numbers and find their sum, difference, product,
  quotient and remainder (use % operator to find the remainder) */
-#include <conio.h>
 #include <iostream>
 using namespace std;
 int main()
@@ -21,7 +20,5 @@ int main()
 
     cout << num1 << " added to " << num2 << " equals " << add << endl;
     cout << num1 << " minus  " << num2 << " equals " << minus << endl;
-
-    getch();
     return 0;
 }

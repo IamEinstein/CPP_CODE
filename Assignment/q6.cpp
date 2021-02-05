@@ -1,4 +1,3 @@
-#include <conio.h>
 #include <iostream>
 using namespace std;
 int main()
@@ -15,6 +14,5 @@ int main()
         cout << "The number is not DIVISIBLE by 4" << endl;
     }
 
-    getch();
     return 0;
 }
